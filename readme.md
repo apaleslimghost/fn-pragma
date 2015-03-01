@@ -17,7 +17,7 @@ Add pragmas to functions.
 ```js
 
 function foo() {
-	/* @bar @baz('quux') *//
+	/* @bar @baz('quux') */
 }
 
 var pragma = require('fn-pragma');
