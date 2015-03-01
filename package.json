@@ -1,0 +1,27 @@
+{
+  "name": "fn-pragma",
+  "version": "1.0.0",
+  "description": "pragmas for functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quarterto/fn-pragma.git"
+  },
+  "keywords": [
+    "function",
+    "pragma"
+  ],
+  "author": "Matt Brennan <matt@153.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/fn-pragma/issues"
+  },
+  "homepage": "https://github.com/quarterto/fn-pragma",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  }
+}
