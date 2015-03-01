@@ -1,5 +1,5 @@
 <h1 align="center">
-	fn-pragma
+	fn-pragma <br>
 
 	<a href="http://badge.fury.io/js/fn-pragma">
 		<img src="https://badge.fury.io/js/fn-pragma.svg" alt="npm version">
